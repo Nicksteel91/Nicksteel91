@@ -3,7 +3,7 @@
 
 - 🔭 I just worked on [Road Travel](https://github.com/Nicksteel91/Road-Travel)
 
-- 🌱 I’m currently learning **HTML 5, CSS, JS (Review)**
+- 🌱 I’m currently reviewing deeply **HTML 5, CSS, JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nicksteel91?tab=repositories](https://github.com/Nicksteel91?tab=repositories)
 
