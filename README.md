@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas Acero</h1>
-<h3 align="center">A passionate full-stack developer from</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 - 🔭 I just worked on [Road Travel](https://github.com/Nicksteel91/Road-Travel)
 
