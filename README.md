@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nicksteel91?tab=repositories](https://github.com/Nicksteel91?tab=repositories)
 
-- 📫 How to reach me **nicolas.acero91@gmail.com**
+- 📫 How to reach me **nicolas.acero@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nicolasacero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolasacero" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nico-ac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolasacero" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
